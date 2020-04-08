@@ -1,5 +1,5 @@
 package ru.homework.lesson2;
-
+//
 public class homework2 {
     public static void main(String[] args){
         //invertArray();
@@ -50,7 +50,6 @@ public class homework2 {
         }
         System.out.println("\n minimal is: " + min + "\n maximal is: " + max );
 
-
-            }
+    }
 
 }
